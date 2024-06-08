@@ -1,7 +1,7 @@
 [
   {
     "backcolor": "#787878",
-    "name": "Razer Tartarus FarCry6",
+    "name": "Razer Tartarus HellDivers 2",
     "author": "trianglesis",
     "notes": "https://www.razer.com/gaming-keypads/razer-tartarus-pro\n",
     "radii": "20px",
@@ -208,7 +208,7 @@
       "w": 1.75,
       "h": 1.75
     },
-    "07\n\n\n\n\n\n\n\n\nShift"
+    "07\n\n\n\n\n\n\n\n\nAlt"
   ],
   [
     {
@@ -231,20 +231,20 @@
       "w": 1.75,
       "h": 1.75
     },
-    "12\n\n\n\n\n\n\n\n\nE",
+    "12\n\n\n\n\n\n\n\n\nShift",
     {
       "w": 1.75,
       "h": 1.75,
       "n": true
     },
-    "13\n\n\n\n\n\n\n\n\nG",
+    "13\n\n\n\n\n\n\n\n\nE",
     {
       "w": 1.75,
       "h": 1.75
     },
-    "14\n\n\n\n\n\n\n\n\nSpace",
+    "14\n\n\n\n\n\n\n\n\nG",
     {
-      "c": "#d4872a",
+      "c": "#c87e74",
       "t": "#190f00\n\n\n\n\n\n\n\n\n#000000",
       "fa": [
         6,
